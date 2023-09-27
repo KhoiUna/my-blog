@@ -1,12 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap");
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-* {
-  font-family: "Roboto Serif", sans-serif;
-}
 
 nav a,
 .urls,
@@ -20,5 +14,5 @@ nav a,
 }
 
 .post-tag {
-  @apply inline-block font-bold text-xs text-black rounded-full py-2 px-4 mt-1 mr-1 bg-white;
+  @apply inline-block text-xs text-black rounded-full py-2 px-4 mt-1 mr-1 bg-white;
 }
