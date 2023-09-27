@@ -11,7 +11,7 @@ eleventyComputed:
 
 {% for post in collections[tag] %}
 
-<div class="py-4 sm:py-10">
+<div class="py-5">
   <p>
     <span class="text-xl font-bold hover:underline"><a class="urls" href="{{ post.url }}">{{ post.data.title }}</a></span>
   </p>
