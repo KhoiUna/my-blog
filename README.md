@@ -8,13 +8,11 @@ A blog that still runs without javascript. Hence, no bundlers.
 
 - Static Site Gen - Eleventy
 
-- Tailwind CSS v2.0 / Tailwind Typography / Dark Mode
+- Tailwind CSS
 
 - Create excerpts using the `<!-- excerpt -->`
 
 - Custom ReadTime filter
-
-- 404 page
 
 * Tags page to view posts related to tag
 

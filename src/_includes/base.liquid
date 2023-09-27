@@ -3,24 +3,34 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name='description' content="{{ post_excerpt | strip | append: "..." }}" />
     <meta name="theme-color" content="#191919"/>
     <link rel="icon" href="/assets/favicon.ico" />
+    
+    {% if post_excerpt %}
+    <meta name="description" content="{{ post_excerpt | strip | append: "..." }}" />
+    <meta property="og:description" content="{{ post_excerpt | strip | append: "..." }}" />
+    <meta property="twitter:description" content="{{ post_excerpt | strip | append: "..." }}" />
+    {% endif %}
+    {% unless post_excerpt %}
+    <meta name="description" content="{{ title | prepend: " > " | prepend: site.title }}" />
+    <meta property="og:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
+    <meta property="twitter:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
+    {% endunless %}
+
+    <meta property="og:title" content="{{ title }}" />    
+    <meta property="twitter:title" content="{{ title }}" />    
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ site.url }}"/>
-    <meta property="og:title" content="{{ title }}" />
-    <meta property="og:description" content="{{ post_excerpt | strip | append: "..." }}" />
     <meta property="og:image" content="/assets/ava.jpg" />
 
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="{{ site.url }}" />
-    <meta property="twitter:title" content="{{ title }}" />
-    <meta property="twitter:description" content="{{ post_excerpt | strip | append: "..." }}" />
     <meta property="twitter:image" content="/assets/ava.jpg" />
 
     <link href="/assets/styles/tailwind.css" rel="stylesheet" />
     <link href="/assets/styles/index.css" rel="stylesheet" />
+    <link href="/assets/styles/prism-okaidia.css" rel="stylesheet">
 
     <title>{{ title }}</title>
   </head>
