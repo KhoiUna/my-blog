@@ -22,6 +22,4 @@ Here is what I learn:
 3. Delay the intake of caffeine 60-90 minutes after waking up.
 4. Excercise: hydrate and train to clear out adenosine.
 
-<aside>
-💡 Try to increase your body temperature during your time awake. Eg: cold shower can increase your body temperature.
-</aside>
+> 💡 Try to increase your body temperature during your time awake. Eg: cold shower can increase your body temperature.

@@ -32,13 +32,11 @@ A header contains information about the content, source, and destination of each
 
 ---
 
-<aside>
-💡 <em>Protocol</em> is an agreed-upon way of formatting data so that two or more devices are able to communicate with and understand each other.
-</aside>
+> 💡 <em>Protocol</em> is an agreed-upon way of formatting data so that two or more devices are able to communicate with and understand each other.
 
 # OSI model
 
-![OSI Model](/images/blog/network-layer/osi.png)
+{% asset_img 'osi.png' 'OSI Model' %}
 
 # TCP/IP model
 
