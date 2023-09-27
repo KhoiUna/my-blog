@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/developing-my-first-chrome-extension",
+      "destination": "/posts/2023/01/developing-my-first-chrome-extension",
+      "permanent": true
+    },
+    {
+      "source": "/lessons-learned-from-developing-an-app-for-my-university",
+      "destination": "/posts/2022/01/lessons-learned-from-developing-an-app-for-my-university",
+      "permanent": true
+    },
+    {
+      "source": "/startups",
+      "destination": "/tags/startup",
+      "permanent": true
+    },
+    {
+      "source": "/others/my-job-resources",
+      "destination": "/posts/2023/04/my-job-resources",
+      "permanent": true
+    }
+  ]
+}
