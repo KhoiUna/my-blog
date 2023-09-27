@@ -35,10 +35,10 @@ From research by Iris Moss and others, it can be seen that happiness is a good t
 Nassim Nicholas Taleb used to work as an option trader, and option traders view the world in two dimensions: things that don't like volatility and things that like volatility.
 
 {% asset_img 'fragile.png' 'Fragile graph' %}
-<sub>_Fragile graph (source: Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb | Talks at Google)_</sub>
+<em><sub>Fragile graph (source: Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb | Talks at Google)</sub></em>
 
 {% asset_img 'antifragile.png' 'Antifragile graph' %}
-<sub>_Antifragile graph (source: Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb | Talks at Google)_</sub>
+<em><sub>Antifragile graph (source: Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb | Talks at Google)</sub></em>
 
 Here are some key takeaways from his talk:
 
