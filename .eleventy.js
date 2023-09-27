@@ -52,7 +52,7 @@ module.exports = function (eleventyConfig) {
 
   // asset_img shortcode
   eleventyConfig.addLiquidShortcode("asset_img", (filename, alt) => {
-    return `<img class="my-4" src="/assets/img/posts/${filename}" alt="${alt}" />`;
+    return `<img class="my-4" src="/assets/images/posts/${filename}" alt="${alt}" />`;
   });
 
   return {
