@@ -5,13 +5,11 @@ tags:
   - startup
 ---
 
-4 most common mistakes. 1. Not solving a real problem. - Do not make solutions in search of a problem. - Fall in love of a problem → Find a high-quality problem.
-
-<!-- excerpt -->
-
 <a href='https://youtu.be/Th8JoIan4dg' target='_blank'>YC YouTube video</a>
 
 # 4 most common mistakes
+
+<!-- excerpt -->
 
 1. Not solving a real problem.
    - Do not make solutions in search of a problem.

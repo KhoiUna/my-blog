@@ -5,15 +5,13 @@ tags:
   - life
 ---
 
-Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb; Don’t chase happiness. Become antifragile | Tal Ben-Shahar. What is antifragile? There is this misconception of a happy life is that one should always be happy. However, learning to embrace and accept painful emotions is part of a happy life.
-
-<!-- excerpt -->
-
 ## _Don’t chase happiness. Become antifragile_ by Tal Ben-Shahar
 
 > What is antifragile?
 
 There is this misconception of a happy life is that one should always be happy. However, learning to embrace and accept painful emotions is part of a happy life.
+
+<!-- excerpt -->
 
 **Antifragile** means putting pressure on a system and make it grow stronger and harder. For instance, we, humans, are antifragile. Think when we go to the gym and lift weights.
 

@@ -5,11 +5,9 @@ tags:
   - life
 ---
 
-I have recently watched a video by AfterSkool on how to have The Optimal Morning Routing. Here is what I learn: 1. The number one important thing is sleep. You should try to get good sleep 80% of the time.
+I have recently watched a video by [@AfterSkool](https://www.youtube.com/@AfterSkool) on how to have [The Optimal Morning Routing](https://youtu.be/gR_f-iwUGY4).
 
 <!-- excerpt -->
-
-I have recently watched a video by [@AfterSkool](https://www.youtube.com/@AfterSkool) on how to have [The Optimal Morning Routing](https://youtu.be/gR_f-iwUGY4).
 
 Here is what I learn:
 

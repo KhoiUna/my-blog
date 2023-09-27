@@ -5,15 +5,13 @@ tags:
   - startup
 ---
 
-Paul Graham's Before the Startup. 1. Counterintuitive: Startups are so weird that if you trust your instincts, you'll make a lot of mistakes. If you know nothing more than this, you may at least pause before making them.
-
-<!-- excerpt -->
-
 <a href='http://www.paulgraham.com/before.html' target='_blank'>Paul Graham's Before the Startup</a>
 
 # 1. Counterintuitive
 
 Startups are so weird that if you trust your instincts, you'll make a lot of mistakes. If you know nothing more than this, you may at least pause before making them.
+
+<!-- excerpt -->
 
 You can, however, trust your instincts about people. And in fact one of the most common mistakes young founders make is not to do that enough. If you're thinking about getting involved with someone — as a cofounder, an employee, an investor, or an acquirer — and you have misgivings about them, trust your gut. If someone seems slippery, or bogus, or a jerk, don't ignore it.
 

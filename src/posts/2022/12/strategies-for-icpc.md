@@ -5,11 +5,9 @@ tags:
   - coding
 ---
 
-ICPC is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity,
+> **_International Collegiate Programming Contest (ICPC)_** is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.
 
 <!-- excerpt -->
-
-> **_International Collegiate Programming Contest (ICPC)_** is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.
 
 As I am about to participate in my first ICPC, I think it is a good idea to learn some strategies from the best. Here is my summary after watching [Day Zero: Strategies from MIPT Coach Mikhail Tikhomirov](https://youtu.be/0rF3J1uqVkU).
 

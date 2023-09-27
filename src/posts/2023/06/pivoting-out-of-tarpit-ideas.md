@@ -5,15 +5,13 @@ tags:
   - startup
 ---
 
-What are tarpit ideas? Tarpit ideas are ideas that people try but don't pivot out quickly enough. It's a cause of death for many companies. > Tarpit tends to be a great place to find fossilized remains. The reason is that tarpit resembles fresh water ponds so animals come across and get stuck, then die.
-
-<!-- excerpt -->
-
 <a href='https://youtu.be/GMIawSAygO4' target='_blank'>YC YouTube video</a>
 
 # What are tarpit ideas?
 
 Tarpit ideas are ideas that people try but don't pivot out quickly enough. It's a cause of death for many companies.
+
+<!-- excerpt -->
 
 > Tarpit tends to be a great place to find fossilized remains. The reason is that tarpit resembles fresh water ponds so animals come across and get stuck, then die.
 

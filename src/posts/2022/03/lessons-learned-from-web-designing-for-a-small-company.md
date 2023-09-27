@@ -6,10 +6,6 @@ tags:
   - web design
 ---
 
-My friends and I created a website for a small business. Here are some things I learn: - Looking into the company’s current tool - Leverage the web editor’s template - Goals can change.
-
-<!-- excerpt -->
-
 # **TL;DR**
 
 My friends and I created a website for a small business. Here are some things I learn:
@@ -17,6 +13,8 @@ My friends and I created a website for a small business. Here are some things I 
 - Looking into the company’s current tool
 - Leverage the web editor’s template
 - Goals can change
+
+<!-- excerpt -->
 
 ---
 

@@ -1,20 +1,18 @@
 ---
-title: "What is a network layer?"
+title: What is a network layer?
 date: "2023-09-25"
 tags:
   - tech
   - networking
 ---
 
-What is a network? A network is a group of two or more connected computing devices.
-
-<!-- excerpt -->
-
 I am getting into Cybersecurity and trying to learn a few things about the fundamentals.
 
 # What is a network?
 
 A network is a group of two or more connected computing devices.
+
+<!-- excerpt -->
 
 Usually all devices in the network are connected to a central hub — for instance, a [router](https://www.cloudflare.com/learning/network-layer/what-is-a-router/). A network can also include [subnetworks](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/), or smaller subdivisions of the network.
 

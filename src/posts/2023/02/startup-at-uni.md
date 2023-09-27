@@ -5,13 +5,11 @@ tags:
   - startup
 ---
 
-Some time in 2021, Avish and I were aspiring entrepreneurs at the Unversity of North Alabama. We met at _the Generator_ - a facility for innovators, engineers, designers, etc. at our uni.
-
-<!-- excerpt -->
-
 # Some time in 2021
 
 Avish and I were aspiring entrepreneurs at the University of North Alabama. We met at _the Generator_ - a facility for innovators, engineers, designers, etc. at our uni.
+
+<!-- excerpt -->
 
 # Around Sep 2022
 

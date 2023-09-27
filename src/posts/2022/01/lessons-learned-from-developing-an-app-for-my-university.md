@@ -6,13 +6,11 @@ tags:
   - tech
 ---
 
-I build an app for my university. Here are some things I learn: - Focus on minimal UI. - Utilize UI library.
-
-<!-- excerpt -->
-
 # **TL;DR**
 
 I build an app for my university. Here are some things I learn:
+
+<!-- excerpt -->
 
 - Focus on minimal UI.
 - Utilize UI library.

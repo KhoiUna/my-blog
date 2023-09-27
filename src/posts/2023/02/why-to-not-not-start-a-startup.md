@@ -5,11 +5,9 @@ tags:
   - startup
 ---
 
-Takeaway from Paul Graham's Why to not not start a startup. Too young: When you're a little kid and you're asked to do something hard, you can cry and say "I can't do it" and the adults will probably let you off
+Takeaway from Paul Graham's <a href='http://www.paulgraham.com/notnot.html' target='_blank'>Why to not not start a startup</a>
 
 <!-- excerpt -->
-
-Takeaway from Paul Graham's <a href='http://www.paulgraham.com/notnot.html' target='_blank'>Why to not not start a startup</a>
 
 # 1. Too young
 
