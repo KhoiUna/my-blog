@@ -3,6 +3,7 @@ title: "My first Chrome extension"
 date: "2023-01-03"
 tags:
   - tech
+  - coding
 ---
 
 As I was doing my final project for Harvard CS50x, I decided to build a Chrome extension because, why not, I had never built one before so it would be a good learning experience for me.
