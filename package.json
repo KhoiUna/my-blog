@@ -4,27 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx @11ty/eleventy --serve & npx tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
-    "debug": "DEBUG=Eleventy* npx @11ty/eleventy --serve & npx tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
+    "debug": "DEBUG=Eleventy* pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "build": "npx @11ty/eleventy & npx tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css"
+    "build": "pnpm eleventy & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Khoi Nguyen",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
-    "eslint": "^7.12.1",
-    "postcss": "^8.4.5"
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "eslint": "^8.50.0",
+    "postcss": "^8.4.30"
   },
   "dependencies": {
-    "@tailwindcss/typography": "^0.5.1",
-    "autoprefixer": "^10.4.2",
-    "markdown-it": "^12.3.2",
-    "markdown-it-anchor": "^8.4.1",
-    "tailwindcss": "^3.0.18"
+    "@tailwindcss/typography": "latest",
+    "autoprefixer": "latest",
+    "markdown-it": "latest",
+    "markdown-it-anchor": "latest",
+    "tailwindcss": "latest"
   }
 }
