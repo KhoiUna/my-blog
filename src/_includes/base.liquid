@@ -8,7 +8,7 @@
     <meta name='description' content={{ site.description }}>
     <meta name="theme-color" content="#191919"/>
 
-    <link rel="icon" type="icon" href="/assets/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
 
     <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
     <link href="/assets/styles/tailwind.css" rel="stylesheet" />
@@ -28,8 +28,6 @@
     {{ content }}
     
   <script>
-    if (!localStorage.theme) localStorage.theme = 'dark'
-    
     document.getElementById("toggleDarkMode").addEventListener("click", function() {
       if (isDarkMode()) {
         localStorage.theme = 'light'
