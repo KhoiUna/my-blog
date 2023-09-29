@@ -63,7 +63,7 @@ Here came 4 PM on a Monday. Two students came. We were disappointed as the Boein
 
 The Boeing Recruiter Visit went well. One of the recruiters - [Melissa Smalley](https://www.linkedin.com/in/melissasmalley/) - gave a compliment on the dashboard UI saying it was _"user-friendly"_. After that, we nervously waited for their feedback email and thought they might have forgotten. Finally, here is what they sent us.
 
-<img src='/images/blog/startup-at-uni/boeing-feedback-email.png' alt='Feedback email from Boeing' />
+{% asset_img 'boeing-feedback-email.png' 'Feedback email from Boeing' %}
 
 After the feedback, we added the search bar and prepared to launch more features.
 
@@ -71,7 +71,7 @@ After the feedback, we added the search bar and prepared to launch more features
 
 Things slowed down again, but this time, it put our startup on the verge of collapse. Avish's time was running out. He had to leave the US because of his visa expiration.
 
-To go all-in, Avish and I sat down to craft our [pitch deck](/pdfs/startup-at-uni/pitch-deck.pdf) and sent to VCs that could help with immigration.
+To go all-in, Avish and I sat down to craft our [pitch deck](https://bafybeia24eowpghjnh6hti4sejs5crjn5umvbdxjbqes74aor4nzmodggm.ipfs.w3s.link/NFC%20Orange%20Pitch%20Deck.pdf) and sent to VCs that could help with immigration.
 
 We even built a company [LinkedIn](https://www.linkedin.com/company/nfc-orange/) page and change our job title.
 
@@ -79,7 +79,7 @@ We even built a company [LinkedIn](https://www.linkedin.com/company/nfc-orange/)
 
 We got rejected by [Unshackled Ventures](https://www.unshackledvc.com/) - the one we hope for the most.
 
-<img src="/images/blog/startup-at-uni/unshackled-feedback.jpg" alt='Feedback email from Unshackled VC' />
+{% asset_img 'unshackled-feedback.jpg' 'Feedback email from Unshackled VC' %}
 
 # April 9 2023
 
