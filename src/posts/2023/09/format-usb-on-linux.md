@@ -1,6 +1,7 @@
 ---
 title: "How to format a USB drive in Linux?"
 date: "2023-09-29"
+ogImage: https://images.unsplash.com/photo-1625886390251-01af1ea39853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&q=80
 tags:
   - tech
   - linux
@@ -63,7 +64,7 @@ fsck - check and repair a Linux filesystem
 A USB drive with no files indicates successful formatting. Something like this:
 
 ```
-/dev/sda: 0 files, blahblah...
+/dev/sda: 0 files, ......
 ```
 
 **DONE!**
