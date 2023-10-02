@@ -2,7 +2,6 @@
 title: "Lessons from developing an app for my university"
 date: "2022-01-24"
 tags:
-  - coding
   - tech
 ---
 

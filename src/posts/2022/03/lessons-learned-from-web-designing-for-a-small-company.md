@@ -3,7 +3,6 @@ title: "Lessons learned from web designing for a small company"
 date: "2022-03-03"
 tags:
   - tech
-  - web design
 ---
 
 # **TL;DR**

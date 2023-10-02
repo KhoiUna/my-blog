@@ -2,7 +2,6 @@
 title: "The Optimal Morning Routine"
 date: "2022-11-18"
 tags:
-  - life
   - productivity
 ---
 

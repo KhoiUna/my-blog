@@ -3,7 +3,6 @@ title: What is a network layer?
 date: "2023-09-25"
 tags:
   - tech
-  - networking
 ---
 
 I am getting into Cybersecurity and trying to learn a few things about the fundamentals.
