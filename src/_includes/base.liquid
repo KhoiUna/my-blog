@@ -9,9 +9,9 @@
     {% if post_excerpt %}
     <meta property="description" content="{{ post_excerpt | strip | append: "..." }}" />
     {% endif %}  
-    {% if not post_excerpt %}
+    {% unless post_excerpt %}
     <meta property="description" content="{{ title | prepend: " > " | prepend: site.title }}" />
-    {% endif %}  
+    {% endunless %}  
     
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ site.url }}"/>
@@ -19,15 +19,15 @@
     {% if post_excerpt %}
     <meta property="og:description" content="{{ post_excerpt | strip | append: "..." }}" />
     {% endif %}
-    {% if not post_excerpt %}
+    {% unless post_excerpt %}
     <meta property="og:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
-    {% endif %}
+    {% endunless %}
     {% if ogImage %}
     <meta property="og:image" content="{{ ogImage }}" />
     {% endif %}
-    {% if not ogImage %}
+    {% unless ogImage %}
     <meta property="og:image" content="{{ site.url | append: "/assets/ava.jpg" }}" />
-    {% endif %}
+    {% endunless %}
 
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="{{ site.url }}" />
@@ -35,15 +35,15 @@
     {% if post_excerpt %}
     <meta property="twitter:description" content="{{ post_excerpt | strip | append: "..." }}" />
     {% endif %}
-    {% if not post_excerpt %}
+    {% unless post_excerpt %}
     <meta property="twitter:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
-    {% endif %}
+    {% endunless %}
     {% if ogImage %}
     <meta property="twitter:image" content="{{ ogImage }}" />
     {% endif %}
-    {% if not ogImage %}
+    {% unless ogImage %}
     <meta property="twitter:image" content="{{ site.url | append: "/assets/ava.jpg" }}" />    
-    {% endif %}    
+    {% endunless %}    
     
     <link href="/assets/styles/tailwind.css" rel="stylesheet" />
     <link href="/assets/styles/index.css" rel="stylesheet" />
