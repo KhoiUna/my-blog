@@ -6,11 +6,13 @@ tags:
   - study
 ---
 
-As an international student from Vietnam studying in the US. I am currently pursuing a Dual Degree BBA in Computer Information Systems and BS in Information Technology at the [University of North Alabama (UNA)](https://www.una.edu/). Throughout my time here, I have applied for a lot of internships, faced lots of rejections, and eventually landed some in the most unexpected way.
-
-I will share with you some resources that has been useful to me along the way to pursue a career in the US.
+As an international student from Vietnam studying in the US. I am currently pursuing a Dual Degree BBA in Computer Information Systems and BS in Information Technology at the [University of North Alabama (UNA)](https://www.una.edu/).
 
 <!-- excerpt -->
+
+Throughout my time here, I have applied for a lot of internships, faced lots of rejections, and eventually landed some in the most unexpected way.
+
+I will share with you some resources that has been useful to me along the way to pursue a career in the US.
 
 # Tips
 
