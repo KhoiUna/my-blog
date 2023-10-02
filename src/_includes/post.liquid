@@ -24,5 +24,11 @@ layout: main
   </div>
 
 <div id="post" class="prose prose-invert hover:prose-a:text-blue-500">
+  {% if ogImage %}
+  <div class="max-w-[500px]">
+    <img class="w-full rounded-lg object-scale-down" src="{{ ogImage }}" />
+  </div>
+  {% endif %}
+
   {{ content }}
 </div>
