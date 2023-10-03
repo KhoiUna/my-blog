@@ -4,51 +4,63 @@
     <link rel="icon" href="/assets/favicon.ico" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="theme-color" content="#191919"/>
+    <meta name="theme-color" content="#191919" />
     <meta name="title" content="{{ title }}" />
-    {% if post_excerpt %}
+    {% if description %}
+    <meta property="description" content="{{ description }}" />
+    {% endif %}
+    {% if not description %}
     <meta property="description" content="{{ post_excerpt | strip | append: "..." }}" />
-    {% endif %}  
-    {% unless post_excerpt %}
+    {% endif %}
+    {% if not post_excerpt and not description %}
     <meta property="description" content="{{ title | prepend: " > " | prepend: site.title }}" />
-    {% endunless %}  
-    
+    {% endif %}
+
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ site.url }}"/>
-    <meta property="og:title" content="{{ title }}" />  
-    {% if post_excerpt %}
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:title" content="{{ title }}" />
+    {% if description %}
+    <meta property="og:description" content="{{ description }}" />
+    {% endif %}
+    {% if not description %}
     <meta property="og:description" content="{{ post_excerpt | strip | append: "..." }}" />
     {% endif %}
-    {% unless post_excerpt %}
+    {% if not post_excerpt and not description %}
     <meta property="og:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
-    {% endunless %}
+    {% endif %}
     {% if ogImage %}
     <meta property="og:image" content="{{ ogImage }}" />
     {% endif %}
-    {% unless ogImage %}
+    {% if not ogImage %}
     <meta property="og:image" content="{{ site.url | append: "/assets/ava.jpg" }}" />
-    {% endunless %}
+    {% endif %}
 
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="{{ site.url }}" />
-    <meta property="twitter:title" content="{{ title }}" />    
-    {% if post_excerpt %}
+    <meta property="twitter:title" content="{{ title }}" />
+    {% if description %}
+    <meta property="twitter:description" content="{{ description }}" />
+    {% endif %}
+    {% if not description %}
     <meta property="twitter:description" content="{{ post_excerpt | strip | append: "..." }}" />
     {% endif %}
-    {% unless post_excerpt %}
+    {% if not post_excerpt and not description %}
     <meta property="twitter:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
-    {% endunless %}
+    {% endif %}
     {% if ogImage %}
     <meta property="twitter:image" content="{{ ogImage }}" />
     {% endif %}
-    {% unless ogImage %}
-    <meta property="twitter:image" content="{{ site.url | append: "/assets/ava.jpg" }}" />    
-    {% endunless %}    
-    
+    {% if not ogImage %}
+    <meta property="twitter:image" content="{{ site.url | append: "/assets/ava.jpg" }}" />
+    {% endif %}
+
     <link href="/assets/styles/tailwind.css" rel="stylesheet" />
     <link href="/assets/styles/index.css" rel="stylesheet" />
     <link href="/assets/styles/prism-okaidia.css" rel="stylesheet">
-    <script data-goatcounter="https://khoi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <script
+      data-goatcounter="https://khoi.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"></script>
     <title>{{ title }}</title>
   </head>
 
