@@ -2,7 +2,7 @@
 title: "What are packet sniffers & how to use Snort"
 description: "What are packet sniffers & how to use Snort"
 date: "2023-10-03"
-ogImage:
+ogImage: /assets/images/posts/snort.webp
 tags:
   - tech
   - cybersecurity
