@@ -9,7 +9,7 @@
     {% if description %}
     <meta property="description" content="{{ description }}" />
     {% endif %}
-    {% if not description and not post.title %}
+    {% if not description and post_excerpt %}
     <meta property="description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
     {% endif %}
     {% if not post_excerpt and not description %}
@@ -22,7 +22,7 @@
     {% if description %}
     <meta property="og:description" content="{{ description }}" />
     {% endif %}
-    {% if not description and not post.title %}
+    {% if not description and post_excerpt %}
     <meta property="og:description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
     {% endif %}
     {% if not post_excerpt and not description %}
@@ -41,7 +41,7 @@
     {% if description %}
     <meta property="twitter:description" content="{{ description }}" />
     {% endif %}
-    {% if not description and not post.title %}
+    {% if not description and post_excerpt %}
     <meta property="twitter:description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
     {% endif %}
     {% if not post_excerpt and not description %}
