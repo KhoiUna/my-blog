@@ -1,6 +1,6 @@
 ---
 title: "What are packet sniffers & how to use Snort"
-description: "What are packet sniffers & how to use Snort"
+description: "Packet sniffers. How they work: Packet sniffers work by intercepting and logging network traffic via the wired or wireless network interface on its host computer."
 date: "2023-10-03"
 ogImage: /assets/images/posts/snort.webp
 tags:
