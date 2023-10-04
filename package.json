@@ -20,7 +20,7 @@
   "dependencies": {
     "@tailwindcss/typography": "latest",
     "autoprefixer": "latest",
-    "markdown-it": "latest",
+    "markdown-it": "^13.0.2",
     "markdown-it-anchor": "latest",
     "tailwindcss": "latest"
   }

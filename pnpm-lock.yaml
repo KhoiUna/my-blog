@@ -12,7 +12,7 @@ dependencies:
     specifier: latest
     version: 10.4.16(postcss@8.4.30)
   markdown-it:
-    specifier: latest
+    specifier: ^13.0.2
     version: 13.0.2
   markdown-it-anchor:
     specifier: latest
