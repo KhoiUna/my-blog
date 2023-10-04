@@ -61,9 +61,6 @@ So the lesson here is there will always be incompatibility somewhere along the r
 
 In the end, the great thing after all of this is that I gain more experience as a developer, also as a designer. Another thing is, not trying to show off but, I was offered a $500 scholarship for the service.
 
-<hr/>
-<br/>
-
 # Resources
 
 [GitHub | Global Lions Community Super App for University of North Alabama](https://github.com/KhoiUna/glc-apps)

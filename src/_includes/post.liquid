@@ -2,11 +2,16 @@
 layout: main
 ---
 
+<a href="/" class="block w-fit">
+    <p class="bg-[#0e3d66] w-fit p-1 text-2xl font-bold mt-5 leading-tight capitalize">{{ site.title }}</p>
+    <p class="text-sm italic mt-1 leading-tight">Open-sourcing knowledge</p>
+</a>
+
 {% include "nav.liquid" %}
 
-<p class="text-4xl font-black pt-5 md:pt-30 pb-4 leading-tight">
-    {{ title }}
-</p>
+<a class="hover:underline" href="{{ url }}">
+  <p class="text-4xl font-black pt-5 md:pt-30 pb-4 leading-tight">{{ title }}</p>
+</a>
 
 <div>
     <em>{{ date | date: "%Y-%m-%d" }}</em> &middot; 
