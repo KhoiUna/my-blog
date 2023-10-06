@@ -5,7 +5,6 @@ date: "2023-10-03"
 ogImage: /assets/images/posts/snort.webp
 tags:
   - tech
-  - cybersecurity
 ---
 
 # Packet sniffers
