@@ -2,7 +2,7 @@
 title: "Antifragile"
 date: "2023-01-20"
 tags:
-  - life
+  - personal
 ---
 
 ## _Don’t chase happiness. Become antifragile_ by Tal Ben-Shahar

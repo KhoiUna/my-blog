@@ -2,7 +2,7 @@
 title: "The Optimal Morning Routine"
 date: "2022-11-18"
 tags:
-  - productivity
+  - personal
 ---
 
 I have recently watched a video by [@AfterSkool](https://www.youtube.com/@AfterSkool) on how to have [The Optimal Morning Routing](https://youtu.be/gR_f-iwUGY4).
