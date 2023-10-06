@@ -55,6 +55,11 @@ module.exports = function (eleventyConfig) {
     return `<img class="my-4" src="/assets/images/posts/${filename}" alt="${alt}" />`;
   });
 
+  // newtab_link shortcode
+  eleventyConfig.addLiquidShortcode("newtab_link", (href, text) => {
+    return `<a href="${href}" target="_blank">${text}</a>`;
+  });
+
   return {
     dir: {
       input: "src",

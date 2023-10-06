@@ -77,12 +77,11 @@ To use this locally, you can:
 
 To make it publicly available for everyone to download from the Chrome Store, you first have to [register as a Chrome Web Store developer](https://developer.chrome.com/docs/webstore/register/) that requires paying a one-time registration fee. After that, follow these steps [here](https://developer.chrome.com/docs/webstore/publish/#setup-a-developer-account) to submit your extension for publishing.
 
-<hr/>
-<br/>
+---
 
 # Source code
 
-[GitHub - KhoiUna/sip-and-work-extension: Chrome extension that reminds users to drink water every 15 minutes](https://github.com/KhoiUna/sip-and-work-extension)
+{% newtab_link "https://github.com/KhoiUna/sip-and-work-extension" "GitHub - KhoiUna/sip-and-work-extension: Chrome extension that reminds users to drink water every 15 minutes" %}
 
 # Resources
 
