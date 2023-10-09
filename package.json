@@ -8,7 +8,7 @@
     "debug": "DEBUG=Eleventy* pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "build": "pnpm eleventy & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css"
+    "build": "pnpm eleventy & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css & cp robots.txt _site/"
   },
   "author": "Khoi Nguyen",
   "devDependencies": {
