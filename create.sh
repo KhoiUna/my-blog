@@ -20,6 +20,10 @@ tags:
 
 <!-- excerpt -->
 
+### Content
+
+- []()
+
 EOF
 
 echo "Created new post at $FILENAME"
