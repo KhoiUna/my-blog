@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
+    "dev": "pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
     "debug": "DEBUG=Eleventy* pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
