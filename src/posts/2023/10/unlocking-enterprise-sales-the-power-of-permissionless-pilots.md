@@ -16,11 +16,9 @@ tags:
 
 # Intro
 
-Enterprise sales cycle is slow. As we know the faster your product can deliver that _wow_ feeling to customers, the better. I recently learned about {%newtab_link 'https://matrix.vc/viewpoints/permissionless-pilots' 'Permissionless Pilots'%} - a new pattern that’s enabling startups to close big contracts, _fast_.
+I recently learned about {%newtab_link 'https://matrix.vc/viewpoints/permissionless-pilots' 'Permissionless Pilots'%} - a new pattern that’s enabling startups to close big contracts, _fast_.
 
-However, too many products take forever to deliver that moment. Enterprise sales happen through a long slog of sales calls, procurement, contract negotiation, and technical integration.
-
-Now, founders and early employees are successfully inverting the entire traditional, notoriously slow enterprise sales cycle by shifting the customer’s _wow moment_ from the end of the sales cycle to the very beginning.
+As we know, enterprise sales cycle is slow, and the faster your product can deliver that _wow_ feeling to customers, the better. However, too many products take forever to deliver that moment, due to a long slog of sales calls, procurement, contract negotiation, and technical integration.
 
 # The catch-22
 
