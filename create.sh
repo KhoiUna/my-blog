@@ -10,8 +10,8 @@ FILENAME="src/posts/$YEAR/$MONTH/$TITLEF.md"
 
 cat <<EOF > $FILENAME
 ---
-title: $TITLE
-description: $TITLE
+title: "$TITLE"
+description: "$TITLE"
 date: "$(date '+%Y-%m-%d')"
 ogImage: 
 tags:
