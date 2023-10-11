@@ -2,7 +2,7 @@
 title: "Unlocking Enterprise Sales: The Power of Permissionless Pilots"
 description: "I recently learned about Permissionless Pilots - a new pattern that’s enabling startups to close big contracts, fast"
 date: "2023-10-10"
-ogImage: /assets/images/og/permissionless-pilots.png
+ogImage: /assets/images/og/permissionless-pilots.jpeg
 tags:
   - startup
 ---
