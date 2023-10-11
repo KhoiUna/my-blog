@@ -7,6 +7,17 @@ tags:
   - tech
 ---
 
+### Content
+
+- [Packet sniffers](#packet-sniffers)
+  - [How they work](#how-they-work)
+  - [Ways to intercept traffic](#ways-to-intercept-traffic)
+  - [Tools To Perform Packet Capture](#tools-to-perform-packet-capture)
+- [Snort](#snort)
+  - [What it is](#what-it-is)
+  - [How it works](#how-it-works)
+  - [How to use](#how-to-use-it)
+
 # Packet sniffers
 
 ## How they work
@@ -54,7 +65,7 @@ The below picture shows you what makes a Snort rule:
 ![Components of a Snort rule](https://cyvatar.ai/wp-content/uploads/2022/01/Post15Graphic_6.1.22_-1536x768.png)
 <em><sub>Source: https://cyvatar.ai/write-configure-snort-rules/</sub></em>
 
-## How to use it
+## How to use
 
 To use Snort, first I write my rule in `local.rules` file:
 
