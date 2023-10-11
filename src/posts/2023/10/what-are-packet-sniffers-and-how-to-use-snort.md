@@ -16,7 +16,7 @@ tags:
 - [Snort](#snort)
   - [What it is](#what-it-is)
   - [How it works](#how-it-works)
-  - [How to use](#how-to-use-it)
+  - [How to use](#how-to-use)
 
 # Packet sniffers
 
