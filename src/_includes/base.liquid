@@ -7,13 +7,13 @@
     <meta name="theme-color" content="#191919" />
     <meta name="title" content="{{ title }}" />
     {% if description %}
-    <meta property="description" content="{{ description }}" />
+    <meta name="description" content="{{ description }}" />
     {% endif %}
     {% if not description and post_excerpt %}
-    <meta property="description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
+    <meta name="description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
     {% endif %}
     {% if not post_excerpt and not description %}
-    <meta property="description" content="{{ title | prepend: " > " | prepend: site.title }}" />
+    <meta name="description" content="{{ title | prepend: " > " | prepend: site.title }}" />
     {% endif %}
 
     <meta property="og:type" content="website" />
