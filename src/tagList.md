@@ -16,7 +16,9 @@ eleventyComputed:
     <span class="text-xl font-bold hover:underline"><a class="urls" href="{{ post.url }}">{{ post.data.title }}</a></span>
   </p>
   <em class="text-gray">{{ post.date | date: "%Y-%m-%d" }}</em>
-  <p class="mt-4 text-gray">{{ post.data.post_excerpt }}... 
+  <p class="mt-4 text-gray">  
+    {% if post.data.description %}{{ post.data.description | strip_newlines | append: "..." }}{% endif %}
+    {% if not post.data.description %}{{ post.data.post_excerpt | strip_newlines | strip_html | append: "..." }}{% endif %}    
     <span class="hover:underline text-indigo-500"><a class="urls" href="{{ post.url }}">Read More</a></span>
   </p>
 </div>
