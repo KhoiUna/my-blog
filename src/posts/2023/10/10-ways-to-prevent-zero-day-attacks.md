@@ -1,6 +1,6 @@
 ---
-title: "10 ways to prevent zero-day attack"
-description: "10 ways to prevent zero-day attack"
+title: "10 ways to prevent zero-day attacks"
+description: "A zero day (or 0-day) vulnerability is a security risk in a piece of software that is not publicly known about and the vendor is not aware of. These are severe security threats with high success rates as businesses do not have defenses in place to detect or prevent them"
 date: "2023-10-16"
 ogImage: https://images.unsplash.com/photo-1614064548016-0b5c13ca2c85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3liZXIlMjBhdHRhY2t8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60
 tags:
