@@ -12,6 +12,7 @@ tags:
 - [Intro](#intro)
 - [What you need to bring](#what-you-need-to-bring)
 - [Schedule a driver license test in Alabama](#schedule-a-driver-license-test-in-alabama)
+- [Renew your driver license](#renew-your-driver-license)
 
 # Intro
 
@@ -35,6 +36,20 @@ For taking the **road test**, the **CAR'S OWNER** has to provide his/her:
 - Driver license
 - Insurance ID Card
 - Car tag info
+
+# Renew your driver license
+
+To renew it, you need:
+
+- I-20
+- I-94
+- Letter of Good Standing - you can request this from your school Office of Internation Affairs/DSO.
+- SSN _or_ Letter of authorization to bypass SSN
+- Passport
+
+> Make sure your program end date on your latest I-20 is at least 6 months away (this may differ between states) from the day you try to renew your driver license. Or, you have to wait for your EAD card to arrive to renew, but not before.
+
+> It's illegal to drive with an expired driver license.
 
 # Schedule a driver license test in Alabama
 
