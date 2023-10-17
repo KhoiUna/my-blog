@@ -37,9 +37,16 @@ For taking the **road test**, the **CAR'S OWNER** has to provide his/her:
 - Insurance ID Card
 - Car tag info
 
+# Schedule a driver license test in Alabama
+
+Since I study at the University of North Alabama, here are the links I use the most at my closest DMV:
+
+- {%newtab_link 'https://alabamadl.alea.gov' 'Online Services'%}
+- {%newtab_link 'https://dlschedule.alea.gov/qmaticwebbooking/' 'Schedule an appointment'%}
+
 # Renew your driver license
 
-To renew it, you need:
+To renew, you need:
 
 - I-20
 - I-94
@@ -47,13 +54,8 @@ To renew it, you need:
 - SSN _or_ Letter of authorization to bypass SSN
 - Passport
 
-> Make sure your program end date on your latest I-20 is at least 6 months away (this may differ between states) from the day you try to renew your driver license. Or, you have to wait for your EAD card to arrive to renew, but not before.
+Make sure the program end date on your latest I-20 is **at least 6 months away** (_may differ between states_) from the day you try to renew your driver license. Or, you have to wait for your EAD card to arrive to renew, but not before.
 
-> It's illegal to drive with an expired driver license.
+In short, **don't apply for OPT unless you've renewed your driver license**.
 
-# Schedule a driver license test in Alabama
-
-Since I study at the University of North Alabama, here are the links I use the most at my closest DMV:
-
-- {%newtab_link 'https://alabamadl.alea.gov' 'Online Services'%}
-- {%newtab_link 'https://dlschedule.alea.gov/qmaticwebbooking/' 'Schedule an appointment'%}
+> It's illegal to drive with an expired driver license, and fines can be costly.

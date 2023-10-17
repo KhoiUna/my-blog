@@ -6,7 +6,7 @@ nav a,
 .urls,
 #post p a,
 .read_this {
-  color: #82b2ff;
+  @apply text-[#82b2ff];
 }
 
 .paginator-text {
