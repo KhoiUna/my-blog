@@ -54,7 +54,9 @@ To renew, you need:
 - SSN _or_ Letter of authorization to bypass SSN
 - Passport
 
-Make sure the program end date on your latest I-20 is **at least 6 months away** (_may differ between states_) from the day you try to renew your driver license. Or, you have to wait for your EAD card to arrive to renew, but not before.
+Make sure the program end date on your latest I-20 is **at least 150 days away** (_may differ between states_) from the day you try to renew your driver license. Or, you have to wait for your EAD card to arrive to renew, but not before.
+
+> It's good practice to renew your driver license six months ahead of the expiration date.
 
 In short, **don't apply for OPT unless you've renewed your driver license**.
 
