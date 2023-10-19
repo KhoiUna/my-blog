@@ -9,6 +9,10 @@ nav a,
   @apply text-[#82b2ff];
 }
 
+#post img {
+  @apply mb-3;
+}
+
 .paginator-text {
   @apply text-gray font-bold py-2 px-4;
 }
