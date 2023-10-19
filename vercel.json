@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/admin",
+      "destination": "https://www.notion.so/khoiuna/bd631a2309b94b67a7ec12d069863ba2?v=a16203ee6b2840c2b3c5f8fef215644c",
+      "permanent": true
+    },
+    {
       "source": "/developing-my-first-chrome-extension",
       "destination": "/posts/2023/01/developing-my-first-chrome-extension",
       "permanent": true
