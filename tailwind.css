@@ -10,7 +10,7 @@ nav a,
 }
 
 #post img {
-  @apply mb-3;
+  @apply mb-0;
 }
 
 .paginator-text {
