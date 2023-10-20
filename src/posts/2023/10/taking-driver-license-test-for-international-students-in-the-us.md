@@ -27,7 +27,7 @@ To take a driver's license (_both computer test and road test_) in the US, **YOU
 
 - I-20
 - I-94
-- Letter of Good Standing - you can request this from your school Office of Internation Affairs/DSO.
+- Letter of Good Standing &mdash; request this from your school's Office of Internation Affairs/DSO; **expires after 30 days**.
 - SSN _or_ Letter of authorization to bypass SSN
 - Passport
 
@@ -50,7 +50,7 @@ To renew, you need:
 
 - I-20
 - I-94
-- Letter of Good Standing - you can request this from your school Office of Internation Affairs/DSO.
+- Letter of Good Standing &mdash; request this from your school's Office of Internation Affairs/DSO; **expires after 30 days**.
 - SSN _or_ Letter of authorization to bypass SSN
 - Passport
 
