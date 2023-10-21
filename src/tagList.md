@@ -6,7 +6,7 @@ pagination:
   alias: tag
 permalink: /tags/{{ tag }}/
 eleventyComputed:
-  title: "{{ tag }}"
+  title: "{{ tag | capitalize }}"
 ---
 
 {% for post in collections[tag] %}
