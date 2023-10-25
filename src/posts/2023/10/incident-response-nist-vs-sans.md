@@ -35,7 +35,7 @@ This is part of Week 6 of {%newtab_link 'https://www.codepath.org/' 'CodePath'%}
 |                                           | 5. Recovery       |
 | 4. Post-Incident Activity                 | 6. Lesson Learned |
 
-Placed side-by-side in a list format, NIST and SANS have all the same components and the same flow.
+Placed side-by-side, NIST and SANS have all the same components and the same flow.
 
 The biggest difference lies in Step 3, where NIST believes that containment, eradication, and recovery overlap – meaning _you should not wait to contain all threats before beginning to eradicate them_.
 
