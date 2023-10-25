@@ -8,10 +8,10 @@
     <meta name="generator" content="Eleventy">
     <meta name="title" content="{{ title }}" />
     {% if description %}
-    <meta name="description" content="{{ description }}" />
+    <meta name="description" content="{{ description | slice: 0,161 | append: "..." }}" />
     {% endif %}
     {% if not description and post_excerpt %}
-    <meta name="description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
+    <meta name="description" content="{{ post_excerpt | strip_newlines | strip_html | slice: 0,161 | append: "..." }}" />
     {% endif %}
     {% if not post_excerpt and not description %}
     <meta name="description" content="{{ title | prepend: " > " | prepend: site.title }}" />
@@ -21,10 +21,10 @@
     <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:title" content="{{ title }}" />
     {% if description %}
-    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:description" content="{{ description | slice: 0,161 | append: "..." }}" />
     {% endif %}
     {% if not description and post_excerpt %}
-    <meta property="og:description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
+    <meta property="og:description" content="{{ post_excerpt | strip_newlines | strip_html | slice: 0,161 | append: "..." }}" />
     {% endif %}
     {% if not post_excerpt and not description %}
     <meta property="og:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
@@ -40,10 +40,10 @@
     <meta property="twitter:url" content="{{ site.url }}" />
     <meta property="twitter:title" content="{{ title }}" />
     {% if description %}
-    <meta property="twitter:description" content="{{ description }}" />
+    <meta property="twitter:description" content="{{ description | slice: 0,161 | append: "..." }}" />
     {% endif %}
     {% if not description and post_excerpt %}
-    <meta property="twitter:description" content="{{ post_excerpt | strip_newlines | strip_html | append: "..." }}" />
+    <meta property="twitter:description" content="{{ post_excerpt | strip_newlines | strip_html | slice: 0,161 | append: "..." }}" />
     {% endif %}
     {% if not post_excerpt and not description %}
     <meta property="twitter:description" content="{{ title | prepend: " > " | prepend: site.title }}" />
