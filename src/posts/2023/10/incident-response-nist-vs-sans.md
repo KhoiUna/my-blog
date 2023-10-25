@@ -1,6 +1,6 @@
 ---
 title: "Incident response &mdash; NIST vs SANS"
-description:
+description: "Placed side-by-side in a list format, NIST and SANS have all the same components and the same flow. The biggest difference lies in Step 3, where NIST believes that containment, eradication, and recovery overlap – meaning you should not wait to contain all threats before beginning to eradicate them"
 date: "2023-10-24"
 ogImage: /assets/images/posts/incident-response.webp
 tags:
