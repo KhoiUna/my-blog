@@ -3,27 +3,27 @@
     {
       "source": "/admin",
       "destination": "https://www.notion.so/khoiuna/bd631a2309b94b67a7ec12d069863ba2?v=a16203ee6b2840c2b3c5f8fef215644c",
-      "permanent": true
+      "permanent": false
     },
     {
       "source": "/developing-my-first-chrome-extension",
       "destination": "/posts/2023/01/developing-my-first-chrome-extension",
-      "permanent": true
+      "permanent": false
     },
     {
       "source": "/lessons-learned-from-developing-an-app-for-my-university",
       "destination": "/posts/2022/01/lessons-learned-from-developing-an-app-for-my-university",
-      "permanent": true
+      "permanent": false
     },
     {
       "source": "/startups",
       "destination": "/tags/startup",
-      "permanent": true
+      "permanent": false
     },
     {
       "source": "/others/my-job-resources",
       "destination": "/posts/2023/04/my-job-resources",
-      "permanent": true
+      "permanent": false
     }
   ]
 }
