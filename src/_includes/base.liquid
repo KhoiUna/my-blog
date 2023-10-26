@@ -55,9 +55,15 @@
     <meta property="twitter:image" content="{{ site.url | append: "/assets/ava.png" }}" />
     {% endif %}
 
-    <link href="/assets/styles/tailwind.css" rel="stylesheet" />
-    <link href="/assets/styles/index.css" rel="stylesheet" />
-    <link href="/assets/styles/prism-okaidia.css" rel="stylesheet">
+    <link rel="preload" href="/assets/styles/tailwind.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/assets/styles/tailwind.css"></noscript>
+
+    <link rel="preload" href="/assets/styles/index.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/assets/styles/index.css"></noscript>
+    
+    <link rel="preload" href="/assets/styles/prism-okaidia.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/assets/styles/prism-okaidia.css"></noscript>
+
     <script data-goatcounter="https://khoi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     <title>{{ title }}</title>
   </head>
