@@ -2,7 +2,7 @@
 title: "Antifragile"
 description: "What is antifragile? There is this misconception of a happy life is that one should always be happy. However, learning to embrace and accept painful emotions is part of a happy life"
 date: "2023-01-20"
-ogImage: https://images.unsplash.com/photo-1603127094454-c687bb107d68?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGlzb3JkZXJ8ZW58MHx8MHx8fDA%3D
+ogImage: https://images.unsplash.com/photo-1603127094454-c687bb107d68?auto=format&fit=crop&q=60&w=580&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGlzb3JkZXJ8ZW58MHx8MHx8fDA%3D
 tags:
   - personal
 ---
@@ -33,10 +33,10 @@ From research by Iris Moss and others, it can be seen that happiness is a good t
 
 Nassim Nicholas Taleb used to work as an option trader, and option traders view the world in two dimensions: things that don't like volatility and things that like volatility.
 
-{% asset_img 'fragile.png' 'Fragile graph' %}
+{% asset_img 'fragile.webp' 'Fragile graph' %}
 <sub>Fragile graph (source: Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb | Talks at Google)</sub>
 
-{% asset_img 'antifragile.png' 'Antifragile graph' %}
+{% asset_img 'antifragile.webp' 'Antifragile graph' %}
 <sub>Antifragile graph (source: Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb | Talks at Google)</sub>
 
 Here are some key takeaways from his talk:
