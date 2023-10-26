@@ -9,12 +9,12 @@ layout: main
 
 {% include "nav.liquid" %}
 
-<a class="hover:underline underline-offset-8" href="{{ url }}">
+<a class="hover:underline underline-offset-8" href="./">
   <p class="text-4xl font-black pt-5 md:pt-30 pb-4 leading-tight">{{ title }}</p>
 </a>
 
 <div>
-    <em>{{ date | date: "%a, %b %d, %Y" }}</em> &middot; 
+    <em>{{ date | date: "%a, %b %d, %Y" }}</em> &middot;
     <span>{{ content | readTime }} min read</span>
 </div>
 
@@ -30,9 +30,7 @@ layout: main
 
 <div id="post" class="prose prose-invert hover:prose-a:text-blue-500">
   {% if ogImage %}
-  <div class="max-w-[500px]">
-    <img class="w-full rounded-lg object-scale-down" src="{{ ogImage }}" />
-  </div>
+  <img class="w-[500px] h-[300px] rounded-lg object-cover" src="{{ ogImage }}" alt="Blog post image"/>
   {% endif %}
 
   {{ content }}
