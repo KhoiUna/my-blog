@@ -2,7 +2,7 @@
 title: Presenting at Huntsville National Cyber Summit
 description: I am proud to have presented at Huntsville's National Cyber Summit for the cybersecurity startup that I had interned with called Ossillate Inc.
 date: 2023-10-06
-ogImage: https://blog.khoiuna.info/assets/images/posts/ncs/1.JPG
+ogImage: /assets/images/posts/ncs/1.webp
 tags:
   - personal
 ---
@@ -18,5 +18,5 @@ For me, I was fortunate to have this opportunity if not for my boss, {% newtab_l
 So there you go, here are some photos of me presenting at the conference!
 
 {% for count in (2..6) %}
-<img class="my-4" src="/assets/images/posts/ncs/{{ count }}.JPG" alt="Khoi presenting at Huntsville National Cyber Summit" />
+<img class="my-4" src="/assets/images/posts/ncs/{{ count }}.webp" alt="Khoi presenting at Huntsville National Cyber Summit" />
 {% endfor %}
