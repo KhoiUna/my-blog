@@ -75,6 +75,6 @@ UEBA provides information on the behavior of users and other entities in the cor
 
 **Compromised insider:** infiltrate an org and compromise a privileged user account.
 
-<img src="https://info.varonis.com/hs-fs/hubfs/Imported_Blog_Media/ueba-vs-siem-2.png?width=1241&height=1304&name=ueba-vs-siem-2.png" alt="UEBA and SIEM comparison image"/>
+<img width="580" height="610" src="https://info.varonis.com/hs-fs/hubfs/Imported_Blog_Media/ueba-vs-siem-2.png?width=1241&height=1304&name=ueba-vs-siem-2.png" alt="UEBA and SIEM comparison image"/>
 
 <sub>Source: {%newtab_link 'https://info.varonis.com/hs-fs/hubfs/Imported_Blog_Media/ueba-vs-siem-2.png?width=1241&height=1304&name=ueba-vs-siem-2.png' 'Varonis'%}</sub>
