@@ -1,7 +1,4 @@
 Sitemap: https://blog.khoiuna.info/sitemap.xml
 
-User-agent: CCBot
-Disallow: *
-
 User-agent: *
 Disallow:
