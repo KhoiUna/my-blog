@@ -5,6 +5,7 @@ date: "2023-10-24"
 ogImage: /assets/images/posts/incident-response.webp
 tags:
   - tech
+  - cybersecurity
 ---
 
 ### Content

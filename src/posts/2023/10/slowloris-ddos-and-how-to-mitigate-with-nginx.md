@@ -5,6 +5,7 @@ date: "2023-10-16"
 ogImage: /assets/images/posts/loris.webp
 tags:
   - tech
+  - cybersecurity
 ---
 
 ### Content
