@@ -15,6 +15,9 @@ tags:
   - [Who uses APTs?](#who-uses-apts%3F)
   - [Dangers of APTs](#dangers-of-apts)
 - [Threat Intelligence & Response](#threat-intelligence-%26-response)
+- [Threat Intelligence Information Sharing](#threat-intelligence-information-sharing)
+- [MISP - Threat Intelligence Sharing Platform](#misp---threat-intelligence-sharing-platform)
+  - [Threat Intelligence Feeds](#threat-intelligence-feeds)
 
 This is Week 7 of {%newtab_link 'https://www.codepath.org/' 'CodePath'%}.
 
