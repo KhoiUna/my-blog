@@ -1,8 +1,8 @@
 ---
 title: "Threat intelligence APT and MISP"
-description: ""
+description: Advanced Persistent Threat aims to infiltrate a company’s computer systems and steal information or disrupt operations. APT is persistent, meaning they keep trying even if they fail at first, and adapt their tactics to get around defenses. They attack over a long period of time, trying to achieve their goals
 date: "2023-10-29"
-ogImage:
+ogImage: /assets/images/og/threat-intel.jpeg
 tags:
   - tech
   - cybersecurity
@@ -10,7 +10,13 @@ tags:
 
 ### Content
 
-- []()
+- [Advanced Persistent Threat (APT)](<#advanced-persistent-threat-(apt)>)
+  - [Who is concerned about APTs?](#who-is-concerned-about-apts%3F)
+  - [Who uses APTs?](#who-uses-apts%3F)
+  - [Dangers of APTs](#dangers-of-apts)
+- [Threat Intelligence & Response](#threat-intelligence-%26-response)
+
+This is Week 7 of {%newtab_link 'https://www.codepath.org/' 'CodePath'%}.
 
 # Advanced Persistent Threat (APT)
 
@@ -38,11 +44,11 @@ APT aims to infiltrate a company’s computer systems and steal information or d
 
 # Threat Intelligence & Response
 
-**[Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)](https://attack.mitre.org/):** a framework that describes different tactics and techniques used by attackers during a cyber attack.
+{%newtab_link 'https://attack.mitre.org/' 'Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)'%}: a framework that describes different tactics and techniques used by attackers during a cyber attack.
 
-**[Cyber Analytics Repository (CAR)](https://car.mitre.org/):** A collection of analytics and rules that can be used to detect and respond to cyber threats. CAR is like a set of tools that help an organization monitor its network for signs of an attack.
+{%newtab_link 'https://car.mitre.org/' 'Cyber Analytics Repository (CAR)'%}: A collection of analytics and rules that can be used to detect and respond to cyber threats. CAR is like a set of tools that help an organization monitor its network for signs of an attack.
 
-**[Common Attack Pattern Enumeration and Classification (CAPEC)](https://capec.mitre.org/):** a catalog of different types of attacks that organizations might face; helps security teams understand the tactics and techniques used by attackers to exploit known weaknesses in cyber-enabled capabilities (e.g., SQL Injection, XSS, Session Fixation, Clickjacking); is like a _dictionary_ of different cyber attacks, with each attack type having a unique identifier and description.
+{%newtab_link 'https://capec.mitre.org/' 'Common Attack Pattern Enumeration and Classification (CAPEC)'%}: a catalog of different types of attacks that organizations might face; helps security teams understand the tactics and techniques used by attackers to exploit known weaknesses in cyber-enabled capabilities (e.g., SQL Injection, XSS, Session Fixation, Clickjacking); is like a _dictionary_ of different cyber attacks, with each attack type having a unique identifier and description.
 
 # Threat Intelligence Information Sharing
 
@@ -58,7 +64,7 @@ You need to make sure **not to share confidential information**. You need to sha
 
 # MISP - Threat Intelligence Sharing Platform
 
-[Malware Information Sharing Platform (MISP)](https://misp-project.org/) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
+{%newtab_link 'https://misp-project.org/' 'Malware Information Sharing Platform (MISP)'%} is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
 
 ## Threat Intelligence Feeds
 
