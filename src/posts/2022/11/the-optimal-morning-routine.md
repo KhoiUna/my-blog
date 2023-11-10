@@ -1,13 +1,12 @@
 ---
 title: "The Optimal Morning Routine"
 date: "2022-11-18"
+description: I have recently watched a video by AfterSkool on how to have The Optimal Morning Routing. Here is what I learn
 tags:
   - others
 ---
 
 I have recently watched a video by [@AfterSkool](https://www.youtube.com/@AfterSkool) on how to have [The Optimal Morning Routing](https://youtu.be/gR_f-iwUGY4).
-
-<!-- excerpt -->
 
 Here is what I learn:
 
