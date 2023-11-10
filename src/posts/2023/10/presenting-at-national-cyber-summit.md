@@ -4,7 +4,7 @@ description: I am proud to have presented at Huntsville's National Cyber Summit 
 date: 2023-10-06
 ogImage: /assets/images/posts/ncs/1.webp
 tags:
-  - personal
+  - others
 ---
 
 I am proud to have presented at Huntsville's {% newtab_link 'https://www.nationalcybersummit.com/' 'National Cyber Summit'%} for the cybersecurity startup that I had interned with called {% newtab_link 'https://github.com/ossillate-inc' 'Ossillate Inc' %}.

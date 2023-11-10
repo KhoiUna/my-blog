@@ -4,7 +4,7 @@ description: "What is antifragile? There is this misconception of a happy life i
 date: "2023-01-20"
 ogImage: https://images.unsplash.com/photo-1603127094454-c687bb107d68?auto=format&fit=crop&q=60&w=580&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGlzb3JkZXJ8ZW58MHx8MHx8fDA%3D
 tags:
-  - personal
+  - others
 ---
 
 # _Don’t chase happiness. Become antifragile_ by Tal Ben-Shahar

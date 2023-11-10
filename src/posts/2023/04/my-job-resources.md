@@ -2,7 +2,7 @@
 title: "My Job Resources"
 date: "2023-04-14"
 tags:
-  - personal
+  - others
 ---
 
 As an international student from Vietnam studying in the US. I am currently pursuing a Dual Degree BBA in Computer Information Systems and BS in Information Technology at the [University of North Alabama (UNA)](https://www.una.edu/).

@@ -4,7 +4,7 @@ description: "In the US, you need to pass 2 rounds to get the official permit: 1
 date: "2023-10-15"
 ogImage: https://images.unsplash.com/photo-1630406144797-821be1f35d75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 tags:
-  - personal
+  - others
 ---
 
 ### Content
