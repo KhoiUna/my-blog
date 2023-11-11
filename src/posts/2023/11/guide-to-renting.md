@@ -55,6 +55,6 @@ Record a video of your unit before you move in.
 
 Use after-tax income for your rent budget.
 
-> Rule of thumb: 25% of your montly take-home pay after taxes
+> Rule of thumb: 25% of your monthly take-home pay after taxes
 
 Try out this {%newtab_link 'https://smartasset.com/taxes/paycheck-calculator' 'calculator'%}!
