@@ -1,13 +1,15 @@
 ---
-title: "My college startup"
+title: Startup at uni
 date: "2023-02-23"
+description: Some time in 2021 - Avish and I were aspiring entrepreneurs at the University of North Alabama. We met at the Generator - a facility for innovators, engineers, designers, etc. at our uni
+ogImage: /assets/images/og/nfcorange.webp
 tags:
   - startup
 ---
 
 # Some time in 2021
 
-Avish and I were aspiring entrepreneurs at the University of North Alabama. We met at _the Generator_ - a facility for innovators, engineers, designers, etc. at our uni.
+Avish and I were aspiring entrepreneurs at the University of North Alabama. We met at _the Generator_ &mdash; a facility for innovators, engineers, designers, etc. at our uni.
 
 <!-- excerpt -->
 
@@ -99,4 +101,14 @@ I will graduate in December 2023 and will be looking for a full-time job soon.
 
 As an international student, it is either _finding a job or going home_ to stay in the US (I have no plan to pursue a Master's Degree), so I will spend more time on that.
 
-I think this is the end of _my college startup journey_. Stay tune for _my startup journey_!
+# November 12 2023
+
+Today, I sent Avish a text message _"im gonna open-source NFC Orange. Time to move on"_. Yes, all the source code, all of our time and effort has been made public. You can view it {%newtab_link 'https://github.com/KhoiUna/nfc-orange' 'here'%}.
+
+Avish agreed it was time to move on and texted back _"I can try to keep the legacy alive."_
+
+I believe the journey of our entrepreneurship is not over.
+
+---
+
+This is the end of _my college startup journey_. Stay tune for _my startup journey_!
