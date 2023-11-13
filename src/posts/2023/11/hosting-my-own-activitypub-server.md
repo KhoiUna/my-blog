@@ -1,6 +1,6 @@
 ---
 title: "Hosting my own ActivityPub server"
-description: "Hosting my own ActivityPub server"
+description: I love self-hosting. The idea of running someone else's software is beautiful and satisfying. Like learning how to bake a cake from a recipe, if it turns out great, you relish the sweet taste of both success and independence
 date: "2023-11-12"
 ogImage: /assets/images/og/mastodon.webp
 tags:
@@ -37,3 +37,5 @@ Here are my favorite client apps to interact with the Fediverse:
 
 - {%newtab_link 'https://github.com/elk-zone/elk' 'Elk'%}
 - {%newtab_link 'https://apps.apple.com/us/app/woolly-for-mastodon/id6444360628' 'Woolly for iOS'%}
+
+To comment or give feedback on this blog post, you can leave them {%newtab_link 'https://main.elk.zone/platopunk.com/@khoi/01HF3FD2Y01QEBV1Y0RDQ965XW' 'here'%}.
