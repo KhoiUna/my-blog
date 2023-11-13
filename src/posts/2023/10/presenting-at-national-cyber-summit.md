@@ -18,5 +18,5 @@ For me, I was fortunate to have this opportunity if not for my boss, {% newtab_l
 So there you go, here are some photos of me presenting at the conference!
 
 {% for count in (2..6) %}
-<img width="580" height="300" class="w-full object-cover rounded-lg my-4" src="/assets/images/posts/ncs/{{ count }}.webp" alt="Khoi presenting at Huntsville National Cyber Summit" />
+<img loading="lazy" width="580" height="300" class="w-full object-cover rounded-lg my-4" src="/assets/images/posts/ncs/{{ count }}.webp" alt="Khoi presenting at Huntsville National Cyber Summit" />
 {% endfor %}
