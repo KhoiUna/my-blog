@@ -1,6 +1,6 @@
 ---
-title: "comptia roadmap"
-description: "comptia roadmap"
+title: CompTIA Roadmap"
+description: I attended the National Cyber Summit a few months ago and got this flyer. I think it might be helpful to share
 date: "2023-11-14"
 ogImage:
 tags:
