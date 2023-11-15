@@ -11,13 +11,11 @@ tags:
 
 Avish and I were aspiring entrepreneurs at the University of North Alabama. We met at _the Generator_ &mdash; a facility for innovators, engineers, designers, etc. at our uni.
 
-<!-- excerpt -->
-
 # Around Sep 2022
 
 We had an idea to work on NFC cards. We were surfing for a niche and decided to build NFC cards for student resumes since we had looked at _Popl, Linq, Dot, etc._ and thought the market for networking-type NFC was already saturated.
 
-We came up with the name **nTap**. However, it matched with the stock ticker from the company _NetApp_ so we spent 4 hours to find another name and decided to go with **NFC Orange**, then bought the domain **[nfcorange.com](https://www.nfcorange.com)**.
+We came up with the name **nTap**. However, it matched with the stock ticker from the company _NetApp_ so we spent 4 hours to find another name and decided to go with **NFC Orange**, then bought the domain **{%newtab_link 'https://www.nfcorange.com' 'nfcorange.com'%}**.
 
 We applied to pitch at **Idea Audition** (hosted by _Shoals Incubator_) trying to go after the **B2C** and **B2B** model, and did not make it. However, we continued to work on our product.
 
@@ -63,7 +61,7 @@ Here came 4 PM on a Monday. Two students came. We were disappointed as the Boein
 
 # March 8 2023
 
-The Boeing Recruiter Visit went well. One of the recruiters - [Melissa Smalley](https://www.linkedin.com/in/melissasmalley/) - gave a compliment on the dashboard UI saying it was _"user-friendly"_. After that, we nervously waited for their feedback email and thought they might have forgotten. Finally, here is what they sent us.
+The Boeing Recruiter Visit went well. One of the recruiters - {%newtab_link 'https://www.linkedin.com/in/melissasmalley/' 'Melissa Smalley'%} &mdash; gave a compliment on the dashboard UI saying it was _"user-friendly"_. After that, we nervously waited for their feedback email and thought they might have forgotten. Finally, here is what they sent us.
 
 {% asset_img 'boeing-feedback-email.png' 'Feedback email from Boeing' %}
 
@@ -73,13 +71,13 @@ After the feedback, we added the search bar and prepared to launch more features
 
 Things slowed down again, but this time, it put our startup on the verge of collapse. Avish's time was running out. He had to leave the US because of his visa expiration.
 
-To go all-in, Avish and I sat down to craft our [pitch deck](https://bafybeia24eowpghjnh6hti4sejs5crjn5umvbdxjbqes74aor4nzmodggm.ipfs.w3s.link/NFC%20Orange%20Pitch%20Deck.pdf) and sent to VCs that could help with immigration.
+To go all-in, Avish and I sat down to craft our {%newtab_link '/assets/nfc-orange-pitch-deck.pdf' 'pitch deck'%} and sent to VCs that could help with immigration.
 
-We even built a company [LinkedIn](https://www.linkedin.com/company/nfc-orange/) page and change our job title.
+We even built a company {%newtab_link 'https://www.linkedin.com/company/nfc-orange/' 'LinkedIn'%} page and change our job title.
 
 # April 7 2023
 
-We got rejected by [Unshackled Ventures](https://www.unshackledvc.com/) - the one we hope for the most.
+We got rejected by {%newtab_link 'https://www.unshackledvc.com/' 'Unshackled Ventures'%} &mdash; the one we hope for the most.
 
 {% asset_img 'unshackled-feedback.jpg' 'Feedback email from Unshackled VC' %}
 
