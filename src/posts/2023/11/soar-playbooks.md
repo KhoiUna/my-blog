@@ -13,6 +13,8 @@ tags:
 -   [SOAR](#soar)
 -   [SOAR playbooks](#soar-playbooks)
 
+This is Week 9 at {%newtab_link 'https://www.codepath.org/courses/cybersecurity' 'CodePath'%}'s Intermediate Cybersecurity course!
+
 # SOAR
 
 SOAR stands for **Security Orchestration, Automation and Response**.
