@@ -2,7 +2,7 @@
 title: "Threat intelligence APT and MISP"
 description: Advanced Persistent Threat aims to infiltrate a company’s computer systems and steal information or disrupt operations. APT is persistent, meaning they keep trying even if they fail at first, and adapt their tactics to get around defenses. They attack over a long period of time, trying to achieve their goals
 date: "2023-10-29"
-ogImage: /assets/images/og/threat-intel.jpeg
+ogImage: /assets/images/og/threat-intel.webp
 tags:
   - tech
   - cybersecurity
