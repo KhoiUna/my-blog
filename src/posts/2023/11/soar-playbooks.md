@@ -25,7 +25,7 @@ SOAR platform can automatically collect and analyze security alerts from multipl
 
 → Help organizations respond more quickly and effectively.
 
-## SOAR Playbooks
+# SOAR Playbooks
 
 SOAR platforms typically provide a range of pre-built playbooks that can be customized to meet an organization's specific security needs.
 These playbooks are based on industry-standard frameworks and best practices. These include:
