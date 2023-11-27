@@ -4,20 +4,9 @@ description: Advanced Persistent Threat aims to infiltrate a company’s compute
 date: "2023-10-29"
 ogImage: /assets/images/og/threat-intel.webp
 tags:
-  - tech
-  - cybersecurity
+    - tech
+    - cybersecurity
 ---
-
-### Content
-
-- [Advanced Persistent Threat (APT)](<#advanced-persistent-threat-(apt)>)
-  - [Who is concerned about APTs?](#who-is-concerned-about-apts%3F)
-  - [Who uses APTs?](#who-uses-apts%3F)
-  - [Dangers of APTs](#dangers-of-apts)
-- [Threat Intelligence & Response](#threat-intelligence-%26-response)
-- [Threat Intelligence Information Sharing](#threat-intelligence-information-sharing)
-- [MISP - Threat Intelligence Sharing Platform](#misp---threat-intelligence-sharing-platform)
-  - [Threat Intelligence Feeds](#threat-intelligence-feeds)
 
 This is Week 7 of {%newtab_link 'https://www.codepath.org/' 'CodePath'%}.
 
@@ -27,15 +16,15 @@ APT aims to infiltrate a company’s computer systems and steal information or d
 
 ## Who is concerned about APTs?
 
-- Governments
-- Corporations
-- Any organizations holding sensitive info
+-   Governments
+-   Corporations
+-   Any organizations holding sensitive info
 
 ## Who uses APTs?
 
-- Nation-States — steal military secrets or to gain access to sensitive government systems.
-- Criminal Organizations — steal credit card information or other valuable data that can be sold on the black market.
-- Insiders — steal data or intellectual property from their own organization for personal gain.
+-   Nation-States — steal military secrets or to gain access to sensitive government systems.
+-   Criminal Organizations — steal credit card information or other valuable data that can be sold on the black market.
+-   Insiders — steal data or intellectual property from their own organization for personal gain.
 
 ## Dangers of APTs
 
@@ -85,7 +74,7 @@ These are _continuous_ streams of valuable info that provide timely and actionab
 
 When you cache a feed in MISP, you are essentially storing a local copy of the feed data in your MISP instance allowing you to:
 
-- Access and analyze the data faster because you don't need to fetch the data from the feed source each time.
-- Reduces the load on the feed source and can help prevent your access from being rate-limited or blocked if the feed source has such restrictions.
+-   Access and analyze the data faster because you don't need to fetch the data from the feed source each time.
+-   Reduces the load on the feed source and can help prevent your access from being rate-limited or blocked if the feed source has such restrictions.
 
 > You don't want to repeatedly ask the source for the exact same data!

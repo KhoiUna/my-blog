@@ -226,7 +226,7 @@ Your blog is now live at `yourdomain.com`!
 
 -   From now on, each time you `git push` successfully, CircleCI will run the steps in our `.circleci/config.yml` file in our repo.
 -   Make sure to not make user `circleci` a `sudo user` for security purposes.
--   Make sure to `export PATH`. This is important as CircleCI won't have access to user `circleci`'s `$PATH` when SSH to our VPS (_p/s: I spent **hours** fixing this bug_).
+-   Make sure to have `export PATH` in your `deploy-blog.sh` script. This is important as CircleCI won't have access to user `circleci`'s `$PATH` when SSH to our VPS (_p/s: I spent **hours** fixing this bug_).
 
 # References
 

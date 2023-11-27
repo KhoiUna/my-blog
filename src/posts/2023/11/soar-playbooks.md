@@ -8,11 +8,6 @@ tags:
     - cybersecurity
 ---
 
-### Content
-
--   [SOAR](#soar)
--   [SOAR playbooks](#soar-playbooks)
-
 This is Week 9 at {%newtab_link 'https://www.codepath.org/courses/cybersecurity' 'CodePath'%}'s Intermediate Cybersecurity course!
 
 # SOAR

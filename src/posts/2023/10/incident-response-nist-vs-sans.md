@@ -8,15 +8,6 @@ tags:
   - cybersecurity
 ---
 
-### Content
-
-- [NIST and SANS](#nist-and-sans)
-- [Comparing NIST and SANS incident response steps](#comparing-nist-and-sans-incident-response-steps)
-  1. [Preparation](#preparation)
-  2. [Detection and Analysis](#detection-and-analysis)
-  3. [Containment, Eradication, & Recovery](#containment%2C-eradication%2C-%26-recovery)
-  4. [Post Incident Activity](#post-incident-activity)
-
 This is part of Week 6 of {%newtab_link 'https://www.codepath.org/' 'CodePath'%}'s Intermediate Cybersecurity course.
 
 # NIST and SANS

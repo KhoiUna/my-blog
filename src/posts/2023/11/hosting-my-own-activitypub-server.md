@@ -7,10 +7,6 @@ tags:
   - tech
 ---
 
-### Content
-
-- [GoToSocial vs Pleroma](#gotosocial-vs-pleroma)
-
 I love self-hosting. The idea of running someone else's software is beautiful and satisfying. Like learning how to bake a cake from a recipe, if it turns out great, you relish the sweet taste of both success and independence.
 
 Lately, I have been passionate about the idea of decentralization. For me, decentralization _in a not technical way_ is independence. It is equality giving power to everyone.
