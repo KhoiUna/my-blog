@@ -31,7 +31,7 @@ sudo useradd -m -d /home/circleci -s /bin/bash circleci
 -   On your **local** machine, to generate an SSH key pair, run:
 
 ```bash
-ssh-keygen -m PEM -t rsa -f .ssh/circleci
+ssh-keygen -m PEM -t rsa -f ~/.ssh/circleci
 ```
 
 3.  Copy & paste the content of the public key `.pub` and add it your VPS `/home/circleci/.ssh/authorized_keys` file.
@@ -58,7 +58,7 @@ sudo touch /home/circleci/.ssh/authorized_keys
 sudo chown -R circleci:circleci /home/circleci
 ```
 
--   Test the new `circleci` setup with:
+-   On your **local** machine, test the new `circleci` setup with:
 
 ```bash
 ssh circleci@<your_server_ip> -i ~/.ssh/circleci
