@@ -2,13 +2,13 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginTOC = require("eleventy-plugin-toc");
+const pluginTOC = require("eleventy-plugin-nesting-toc");
 
 module.exports = function (eleventyConfig) {
 	// Plugins
 	eleventyConfig.addPlugin(syntaxHighlight);
 	eleventyConfig.addPlugin(pluginRss);
-	eleventyConfig.addPlugin(pluginTOC); // plugin to generate a table of content
+	eleventyConfig.addPlugin(pluginTOC, { tags: ["h1", "h2", "h3"] });
 
 	// To enable merging of tags
 	eleventyConfig.setDataDeepMerge(true);
@@ -44,7 +44,7 @@ module.exports = function (eleventyConfig) {
 		return Array.from(tagsSet).sort();
 	});
 
-	const md = markdownIt({ html: true, linkify: true });
+	const md = markdownIt({ html: true, linkify: true, typographer: true });
 	md.use(markdownItAnchor, {
 		level: [1, 2],
 		permalink: markdownItAnchor.permalink.headerLink({
