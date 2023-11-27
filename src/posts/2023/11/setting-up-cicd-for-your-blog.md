@@ -45,7 +45,7 @@ sudo nano /home/circleci/.ssh/authorized_keys
 sudo mkdir /home/circleci/.ssh
 ```
 
-    then:
+    then create the `authorized_keys` file:
 
 ```bash
 sudo touch /home/circleci/.ssh/authorized_keys
