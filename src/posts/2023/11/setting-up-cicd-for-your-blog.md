@@ -18,7 +18,7 @@ Note that I'm using {%newtab_link 'https://www.11ty.dev/' 'Eleventy'%} as a stat
 -   A GitHub account.
 -   A Linux VPS from AWS / Azure / DigitalOcean / etc. (just make sure you have {%newtab_link 'https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server' 'set up **SSH**'%} and {%newtab_link 'https://www.digitalocean.com/community/tutorials/how-to-create-a-new-sudo-enabled-user-on-ubuntu-22-04-quickstart' 'create a new sudo user'%} for it).
 
-# Setting up user for deployment
+# Setup user for deployment
 
 1. SSH into your VPS (as a sudo user) and create a new user called `circleci`. Run:
 
@@ -68,7 +68,7 @@ If it works, you are now logged in as `circleci`!
 
 4. Setup {%newtab_link 'https://docs.github.com/en/authentication/connecting-to-github-with-ssh' 'SSH connection with GitHub'%}. This allows us to do `git fetch`, `git pull`, and cloning private repos.
 
-# Installing Node
+# Install Node
 
 1. SSH to your VPS with the user `circleci` as we've set up above.
 
