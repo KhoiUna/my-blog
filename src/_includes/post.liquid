@@ -35,10 +35,9 @@ layout: main
   <img loading="lazy" width="580" height="300" class="w-[580px] h-[300px] pb-5 rounded-lg object-cover" src="{{ ogImage }}" alt="Blog post image"/>
   {% endif %}
   
-	<details open>
-		<summary class="cursor-pointer text-xl font-bold">Table of contents</summary>
-		{{ content | toc }}
-	</details>	  
-  </aside>
+  <details open>
+    <summary class="cursor-pointer text-xl font-bold">Table of contents</summary>
+    {{ content | toc }}
+  </details>	  
   <article>{{ content }}</article>
 </div>
