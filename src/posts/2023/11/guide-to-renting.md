@@ -7,13 +7,6 @@ tags:
   - others
 ---
 
-### Content
-
-- [Apartment vs Condo](#apartment-vs-condo)
-- [Cost of renting](#cost-of-renting)
-- [Evaluate the unit](#evaluate-the-unit)
-- [How much rent can you afford](#how-much-rent-can-you-afford)
-
 I'm about to graduate and looking to rent an apartment. Here're some takeaways that I learned from these videos:
 
 - {%newtab_link 'https://youtu.be/ORutIfxU8KM?si=6QGm7CZ_X9MlXXxJ' 'Renting an Apartment for the First Time'%}
