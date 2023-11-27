@@ -5,6 +5,7 @@ date: "2023-11-25"
 ogImage: /assets/images/og/circle-ci.webp
 tags:
     - tech
+    - DevOps
 ---
 
 In this blog post, let's learn how to set up a CI/CD workflow for your blog with CircleCI, GitHub, and a Linux Virtual Private Server (VPS) with {%newtab_link 'https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04' 'NGINX installed'%}.
