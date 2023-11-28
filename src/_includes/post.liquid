@@ -38,7 +38,7 @@ layout: main
   {% assign table_of_content = content | toc %}
   {% assign toc_size = table_of_content | size %}
   {% if toc_size > 0 %}
-  <details open>
+  <details class="mb-3" open>
     <summary style="cursor: pointer;" class="text-xl font-bold">Table of contents</summary>
     {{ table_of_content }}
   </details>	  
