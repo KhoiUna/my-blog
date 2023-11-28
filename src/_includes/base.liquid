@@ -58,7 +58,6 @@
     {% endif %}
 
     <link rel="stylesheet" type="text/css" href="/assets/styles/tailwind.css">
-
     <link rel="preload" href="/assets/styles/index.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" type="text/css" href="/assets/styles/index.css"></noscript>
     
@@ -67,9 +66,22 @@
 
     <script data-goatcounter="https://khoi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     <title>{{ title }}</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3"/></pre></li>
   </head>
 
   <body class="text-white bg-black">
     {{ content }}    
+
+	<script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+	<script type="text/javascript">
+		docsearch({
+    		appId: 'KFTW39WE4Q',
+    		apiKey: 'baf9aba82bc21234dc3ba0198e4b6cb5',
+    		indexName: 'imkhoi',
+    		insights: true, // Optional, automatically send insights when user interacts with search results
+    		container: '#docsearch',
+    		debug: false // Set debug to true if you want to inspect the modal
+		});
+	</script>
   </body>
 </html>
