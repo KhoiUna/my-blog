@@ -4,15 +4,8 @@ description: "In the US, you need to pass 2 rounds to get the official permit: 1
 date: "2023-10-15"
 ogImage: https://images.unsplash.com/photo-1630406144797-821be1f35d75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 tags:
-  - others
+    - others
 ---
-
-### Content
-
-- [Intro](#intro)
-- [What you need to bring](#what-you-need-to-bring)
-- [Schedule a driver license test in Alabama](#schedule-a-driver-license-test-in-alabama)
-- [Renew your driver license](#renew-your-driver-license)
 
 # Intro
 
@@ -23,36 +16,38 @@ In the US, you need to pass 2 rounds to get the official permit:
 
 # What you need to bring
 
+> Always bring a physical copy! Make sure to print the latest document!
+
 To take a driver's license (_both computer test and road test_) in the US, **YOU** will need your:
 
-- I-20
-- I-94
-- Letter of Good Standing &mdash; request this from your school's Office of Internation Affairs/DSO; **expires after 30 days**.
-- SSN _or_ Letter of authorization to bypass SSN
-- Passport
+-   I-20
+-   I-94
+-   Letter of Good Standing &mdash; request this from your school's Office of Internation Affairs/DSO; **expires after 30 days**.
+-   SSN _or_ Letter of authorization to bypass SSN
+-   Passport
 
 For taking the **road test**, the **CAR'S OWNER** has to provide his/her:
 
-- Driver license
-- Insurance ID Card
-- Car tag info
+-   Driver license
+-   Insurance ID Card
+-   Car tag info
 
 # Schedule a driver license test in Alabama
 
 Since I study at the University of North Alabama, here are the links I use the most at my closest DMV:
 
-- {%newtab_link 'https://alabamadl.alea.gov' 'Online Services'%}
-- {%newtab_link 'https://dlschedule.alea.gov/qmaticwebbooking/' 'Schedule an appointment'%}
+-   {%newtab_link 'https://alabamadl.alea.gov' 'Online Services'%}
+-   {%newtab_link 'https://dlschedule.alea.gov/qmaticwebbooking/' 'Schedule an appointment'%}
 
 # Renew your driver license
 
 To renew, you need:
 
-- I-20
-- I-94
-- Letter of Good Standing &mdash; request this from your school's Office of Internation Affairs/DSO; **expires after 30 days**.
-- SSN _or_ Letter of authorization to bypass SSN
-- Passport
+-   I-20
+-   I-94
+-   Letter of Good Standing &mdash; request this from your school's Office of Internation Affairs/DSO; **expires after 30 days**.
+-   SSN _or_ Letter of authorization to bypass SSN
+-   Passport
 
 Make sure the program end date on your latest I-20 is **at least 150 days away** (_may differ between states_) from the day you try to renew your driver license. Or, you have to wait for your EAD card to arrive to renew, but not before.
 

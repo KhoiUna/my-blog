@@ -8,12 +8,6 @@ tags:
   - cybersecurity
 ---
 
-### Content
-
-- [Hypothesis-driven investigation](#hypothesis-driven-investigation)
-  - [Scenario](#scenario)
-- [Threat Hunting vs Security Analytics](#threat-hunting-vs-security-analytics)
-
 This is Week 8 at {%newtab_link 'https://www.codepath.org/courses/cybersecurity' 'CodePath'%}'s Intermediate Cybersecurity course!
 
 # Hypothesis-driven investigation
