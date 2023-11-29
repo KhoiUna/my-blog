@@ -1,7 +1,7 @@
 ---
 title: "Learning Go — Week 2"
 description: "Week 2 of learning Golang: Speed-running has been my method of learning Go for the past week. Having learnt Python and C, I skipped some parts of A Tour of Go that I felt confident"
-date: "2023-11-19"
+date: "2023-11-28"
 ogImage: /assets/images/og/go-logo.webp
 tags:
     - tech
@@ -20,7 +20,7 @@ Anyway, I was just bored that I found this guide on how to build a {%newtab_link
 go get <package name / GitHub URL>
 ```
 
-Learning about Go's approach to format `time` is interesting. Go uses a default time string value `2006-01-02 15:04:05` for its layout. You can tweak this _layout_ string to create multiple time formats. Eg:
+Learning about Go's approach to format `time` is interesting. Go uses a special time string value `2006-01-02 15:04:05` for its layout. You can tweak this _layout_ string to create multiple time formats. Eg:
 
 ```go
 const layout = "2006-Jan-02"
