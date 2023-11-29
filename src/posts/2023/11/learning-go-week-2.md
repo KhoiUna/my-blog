@@ -20,7 +20,7 @@ Anyway, I was just bored that I found this guide on how to build a {%newtab_link
 go get <package name / GitHub URL>
 ```
 
-Learning about Go's approach to format `time` is interesting. Go uses a special time string value `2006-01-02 15:04:05` for its layout. You can tweak this _layout_ string to create multiple time formats. Eg:
+Learning about Go's approach to format `time` is interesting. Go uses a _special_ time string value `2006-01-02 15:04:05` for its layout. You can tweak this _layout_ string to create multiple time formats. Eg:
 
 ```go
 const layout = "2006-Jan-02"
