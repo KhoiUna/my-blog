@@ -14,7 +14,7 @@ Recently, I've been doing Go challenges on {%newtab_link 'https://exercism.org/'
 
 **Pointers** help you share memory with other parts of our program. When we have a large amount of data, making copies to pass between functions is inefficient. By passing pointers, you can access the single copy of the data directly &rarr; any changes made by one function are immediately visible to other parts of the program when the function ends.
 
-I also tried to solve {%newtab_link 'https://adventofcode.com/' 'Advent of Code'%} challenges using Go, and learned new syntax as I went. Here is {%newtab_link 'https://github.com/KhoiUna/AdventofCode2023' 'my attempt to solve AoC challenges'%}. _Please don't judge my inconsistency. It was quite a challenge!_ 
+I also tried to solve {%newtab_link 'https://adventofcode.com/' 'Advent of Code'%} challenges using Go, and learned new syntax as I went. _It was tough_, at least for me. Here is {%newtab_link 'https://github.com/KhoiUna/AdventofCode2023' 'my attempt to solve AoC challenges'%}. _Please don't judge my inconsistency. It was quite a challenge!_ 
 
 {%asset_img 'go-exercism.webp' 'My Go progress on Exercism'%}
 
