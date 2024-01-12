@@ -2,7 +2,7 @@
 title: "Learning Go — Week 4"
 description: "I love how Go does error-handling! Error handling is not done via exceptions in Go. Instead, errors are normal values of types that implement the built-in error interface"
 date: "2024-01-08"
-ogImage:
+ogImage: /assets/images/og/go-logo.webp
 tags:
   - tech
   - golang
