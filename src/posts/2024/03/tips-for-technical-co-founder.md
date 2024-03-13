@@ -7,6 +7,8 @@ tags:
     - startup
 ---
 
+My notes from {%newtab_link 'https://youtu.be/rP7bpYsfa6Q?si=NfvopkHd0mUzRk13' 'from YC Tips for technical co-founder — Diana Hu'%}.
+
 # Ideating
 
 1. Build prototype ASAP in a matter of days.
