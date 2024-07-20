@@ -15,8 +15,8 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
-    "eslint": "^8.54.0",
-    "postcss": "^8.4.31"
+    "eslint": "^8.57.0",
+    "postcss": "^8.4.39"
   },
   "dependencies": {
     "@tailwindcss/typography": "latest",
