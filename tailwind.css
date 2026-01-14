@@ -1,13 +1,15 @@
 @import 'tailwindcss';
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
+@plugin '@tailwindcss/typography';
 
 nav a,
 .urls,
 #post p a,
 .read_this {
 	@apply text-[#82b2ff];
+}
+
+button {
+	@apply cursor-pointer;
 }
 
 #post img {

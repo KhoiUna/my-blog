@@ -1,20 +1,21 @@
 ---
-title: "Lessons from developing an app for my university"
-date: "2022-01-24"
+title: 'Lessons from developing an app for my university'
+description: 'I build an app for my university. Here are some things I learn: Focus on minimal UI. Utilize UI library. To maximize speed prioritize usability over scalability.'
+date: '2022-01-24'
 tags:
-  - tech
+    - tech
 ---
 
-# **TL;DR**
+# TL;DR
 
 I build an app for my university. Here are some things I learn:
 
 <!-- excerpt -->
 
-- Focus on minimal UI.
-- Utilize UI library.
-- To maximize speed, prioritize usability over scalability.
-- Pick a tech stack that you are comfortable with to build the product faster.
+-   Focus on minimal UI.
+-   Utilize UI library.
+-   To maximize speed, prioritize usability over scalability.
+-   Pick a tech stack that you are comfortable with to build the product faster.
 
 ---
 
@@ -30,32 +31,32 @@ It was winter. And new students were supposed to arrive during the spring around
 
 My initial step was planning:
 
-- Sketching the user interface to get the basic components of the app.
-- Think of what kind of data the app will display.
-- Design the databases and relationships.
+-   Sketching the user interface to get the basic components of the app.
+-   Think of what kind of data the app will display.
+-   Design the databases and relationships.
 
 My second step was coding the app’s UI:
 
-- Focus on minimal UI. Don’t spend time trying to add a hover effect on a button.
-- Utilize UI library (I used Material UI) to avoid writing CSS code.
+-   Focus on minimal UI. Don’t spend time trying to add a hover effect on a button.
+-   Utilize UI library (I used Material UI) to avoid writing CSS code.
 
 The third step was building the prototype to show it to the navigators. I did not even use any database for this:
 
-- I coded a little bit of Express and Socket.IO for the backend.
-- The uploaded image was encoded to base64 and would be sent through the socket.
-- On the admin page, I received data sent through the socket and stored it in the browser’s local storage.
+-   I coded a little bit of Express and Socket.IO for the backend.
+-   The uploaded image was encoded to base64 and would be sent through the socket.
+-   On the admin page, I received data sent through the socket and stored it in the browser’s local storage.
 
 A prototype was made with not much coding!
 
 After getting feedback and iterating the MVP, it is time to move to the next step: code the complete product! Here are some things I notice:
 
-- To maximize speed, prioritize usability over scalability. In this case, I know my users are a small group of international students and the information I am collecting is not sensitive so there are no reasons to implement a bunch of security measures.
-- Pick a tech stack that you are comfortable with to build the product faster.
+-   To maximize speed, prioritize usability over scalability. In this case, I know my users are a small group of international students and the information I am collecting is not sensitive so there are no reasons to implement a bunch of security measures.
+-   Pick a tech stack that you are comfortable with to build the product faster.
 
 After the launch, it was thrilling to see people start using what you had built. But problems would arise. For instance:
 
-- Students use different phones. And the app won’t work on some phones or browsers. One thing I remembered was that my website was blocked by WeChat’s in-app browser saying that “_This is an insecure website_”.
-- Some students want to see their submissions even though they are yet to be approved. So I put a text after they submit to tell them to wait for the approval. However, it was not read or ignored by some students probably because the text was green.
+-   Students use different phones. And the app won’t work on some phones or browsers. One thing I remembered was that my website was blocked by WeChat’s in-app browser saying that “_This is an insecure website_”.
+-   Some students want to see their submissions even though they are yet to be approved. So I put a text after they submit to tell them to wait for the approval. However, it was not read or ignored by some students probably because the text was green.
 
 So the lesson here is there will always be incompatibility somewhere along the road. And there will be ways to get around with it. Design is important, in this case, text placement, and color.
 
