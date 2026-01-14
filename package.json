@@ -1,29 +1,28 @@
 {
-  "name": "my-blog",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
-    "debug": "DEBUG=Eleventy* pnpm eleventy --serve & pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
-    "lint": "eslint .",
-    "lint:fix": "eslint . --fix",
-    "build": "pnpm eleventy; pnpm tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css; cp robots.txt _site/"
-  },
-  "author": "Khoi Nguyen",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
-    "eslint": "^8.57.0",
-    "postcss": "^8.4.39"
-  },
-  "dependencies": {
-    "@tailwindcss/typography": "latest",
-    "autoprefixer": "latest",
-    "eleventy-plugin-nesting-toc": "^1.3.0",
-    "markdown-it": "^13.0.2",
-    "markdown-it-anchor": "latest",
-    "tailwindcss": "latest"
-  }
+	"name": "my-blog",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "eleventy --serve & tailwindcss -i ./tailwind.css -o ./_site/assets/styles/tailwind.css --watch",
+		"build": "eleventy; tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css; cp robots.txt _site/"
+	},
+	"author": "Khoi Nguyen",
+	"devDependencies": {
+		"@11ty/eleventy": "^2.0.1",
+		"@11ty/eleventy-plugin-rss": "^1.2.0",
+		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
+		"eslint": "^8.57.1",
+		"postcss": "^8.5.6"
+	},
+	"dependencies": {
+		"@tailwindcss/cli": "^4.1.18",
+		"@tailwindcss/typography": "latest",
+		"autoprefixer": "latest",
+		"eleventy-plugin-nesting-toc": "^1.3.0",
+		"markdown-it": "^13.0.2",
+		"markdown-it-anchor": "latest",
+		"tailwindcss": "latest"
+	},
+	"packageManager": "pnpm@10.28.0+sha512.05df71d1421f21399e053fde567cea34d446fa02c76571441bfc1c7956e98e363088982d940465fd34480d4d90a0668bc12362f8aa88000a64e83d0b0e47be48"
 }

@@ -1,22 +1,23 @@
-@tailwind base;
+@import 'tailwindcss';
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
 nav a,
 .urls,
 #post p a,
 .read_this {
-  @apply text-[#82b2ff];
+	@apply text-[#82b2ff];
 }
 
 #post img {
-  @apply mb-0;
+	@apply mb-0;
 }
 
 .paginator-text {
-  @apply text-gray font-bold py-2 px-4;
+	@apply text-gray-300 font-bold py-2 px-4;
 }
 
 .post-tag {
-  @apply inline-block text-xs text-black rounded-full py-2 px-4 mt-1 mr-1 bg-white;
+	@apply inline-block text-xs text-black rounded-full py-2 px-4 mt-1 mr-1 bg-white;
 }

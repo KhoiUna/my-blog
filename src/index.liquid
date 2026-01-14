@@ -14,13 +14,13 @@ pagination:
     <span class="text-xl font-bold hover:text-blue-700 leading-tight">
       <a class="urls" href="{{ post.url }}">{{ post.data.title }}</a>
     </span>
-    <span class="text-lg font-normal text-gray">
+    <span class="text-lg font-normal text-gray-300">
       &middot; {{ post.templateContent | readTime }} min read
     </span>
   </p>
 
-  <em class="text-gray">{{ post.date | date: "%Y-%m-%d" }}</em>
-  <p class="mt-4 text-gray">
+  <em class="text-gray-300">{{ post.date | date: "%Y-%m-%d" }}</em>
+  <p class="mt-4 text-gray-300">
     {% if post.data.description %}{{ post.data.description | strip_newlines | slice: 0,150 | append: "..." }}{% endif %}
     {% if not post.data.description %}{{ post.data.post_excerpt | strip_newlines | strip_html | slice: 0,150 | append: "..." }}{% endif %}
   </p>
