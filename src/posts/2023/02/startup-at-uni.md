@@ -1,10 +1,10 @@
 ---
 title: Startup at uni
-date: "2023-02-23"
+date: '2023-02-23'
 description: Some time in 2021 - Avish and I were aspiring entrepreneurs at the University of North Alabama. We met at the Generator - a facility for innovators, engineers, designers, etc. at our uni
 ogImage: /assets/images/og/nfcorange.webp
 tags:
-  - startup
+    - startup
 ---
 
 # Some time in 2021
@@ -15,7 +15,7 @@ Avish and I were aspiring entrepreneurs at the University of North Alabama. We m
 
 We had an idea to work on NFC cards. We were surfing for a niche and decided to build NFC cards for student resumes since we had looked at _Popl, Linq, Dot, etc._ and thought the market for networking-type NFC was already saturated.
 
-We came up with the name **nTap**. However, it matched with the stock ticker from the company _NetApp_ so we spent 4 hours to find another name and decided to go with **NFC Orange**, then bought the domain **{%newtab_link 'https://www.nfcorange.com' 'nfcorange.com'%}**.
+We came up with the name **nTap**. However, it matched with the stock ticker from the company _NetApp_ so we spent 4 hours to find another name and decided to go with **NFC Orange**, then bought the domain **{%newtab_link 'https://nfcorange.platopunk.com' 'nfcorange.com'%}**.
 
 We applied to pitch at **Idea Audition** (hosted by _Shoals Incubator_) trying to go after the **B2C** and **B2B** model, and did not make it. However, we continued to work on our product.
 
